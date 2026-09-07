@@ -23,3 +23,5 @@ Thumbs.db
 
 # Logs
 *.log
+# BMI Calculator database
+Python-Task2-BMICalculator/bmi_data.db
