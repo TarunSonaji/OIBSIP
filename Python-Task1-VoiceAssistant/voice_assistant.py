@@ -264,7 +264,7 @@ def handle_open_website(engine, command):
 
     elif "linkedin" in command:
         speak(engine, "Opening LinkedIn.")
-        webbrowser.open("https://www.linkedin.com")
+        webbrowser.open("https://www.linkedin.com/in/tarun-sonaji-8161b6332")
 
     elif "instagram" in command:
         speak(engine, "Opening Instagram.")
