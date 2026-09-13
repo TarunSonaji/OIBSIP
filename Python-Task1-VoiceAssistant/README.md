@@ -250,3 +250,7 @@ Use this checklist to verify every mandatory requirement works correctly:
       all commands above in sequence and confirm the program keeps
       running (except after the exit command) with no unhandled
       exceptions or crashes.
+
+## 🎥 Demo Video
+
+[Watch the Task 1 Voice Assistant Demo on LinkedIn](https://www.linkedin.com/posts/tarun-sonaji-8161b6332_oasisinfobyte-python-pythonprogramming-ugcPost-7504445301110448128-lVKV/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFOt1BIBnLaTO5l8x_KvLks41x1yXCzpgXk&utm_campaign=copy_link)
