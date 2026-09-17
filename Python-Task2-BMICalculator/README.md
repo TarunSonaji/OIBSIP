@@ -154,3 +154,17 @@ Python-Task2-BMICalculator/
 **Tarun Sonaji**
 Oasis Infobyte — Python Programming Internship
 GitHub: https://github.com/TarunSonaji/OIBSIP
+
+## 🎥 Demo Video
+
+Check out the working demo of the BMI Calculator:
+
+🔗 **[Watch the Demo Video on LinkedIn](https://www.linkedin.com/posts/tarun-sonaji-8161b6332_oasisinfobyte-python-pythonprogramming-ugcPost-7506334999554469888-SQ8X/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFOt1BIBnLaTO5l8x_KvLks41x1yXCzpgXk&utm_campaign=copy_link)**
+
+The demo demonstrates:
+
+* BMI calculation
+* BMI category/result display
+* Input validation
+* BMI history
+* BMI trend visualization
