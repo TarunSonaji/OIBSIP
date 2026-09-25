@@ -44,3 +44,9 @@ Python-Task3-RandomPasswordGenerator/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+## 🎥 Demo Video
+
+Watch the complete working demonstration of the Random Password Generator:
+
+[▶️ Watch Task 3 Demo Video](https://www.linkedin.com/posts/tarun-sonaji-8161b6332_oasisinfobyte-python-pythondevelopment-ugcPost-7509148149467430913-xJD7/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFOt1BIBnLaTO5l8x_KvLks41x1yXCzpgXk&utm_campaign=copy_link)
